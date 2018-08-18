@@ -1,2 +1,2 @@
-# CheckPalindrome
-This C# project checks for palindromes in found in an array and prints them.
+# Check for palindrome
+This C# project checks and prints palindromes in an array.
